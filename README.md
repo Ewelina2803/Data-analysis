@@ -10,7 +10,9 @@ My name is Ewelina Stańczak. For the last 7 years I have been working as a Chem
 
 ## Courses
 * **Analiza danych w MS Excel** - [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ae792a58-35bb-4aed-bbb1-61afe292ef85.pdf)
-<br />Organizer: Radosław Potoczak/Udemy 
+<br />Organizer: Radosław Potoczak/Udemy
+* **Kurs SQL od podstaw | MySQL** - [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-77a75614-4a6e-48fb-be58-f87732f1503f.jpg)
+<br />Organizer: Testowanie Oprogramowania/Udemy
 
 ## Blogs, thematic websites
 * [https://kajodata.com/](https://kajodata.com/)  
