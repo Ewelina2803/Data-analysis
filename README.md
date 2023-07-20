@@ -6,6 +6,7 @@ My name is Ewelina Stańczak. For the last 7 years I have been working as a Chem
 ## My documentations
 
 ## Tools
+* Microsoft Excel
 * Jira - testing management tool
 
 ## Courses
