@@ -5,8 +5,8 @@ My name is Ewelina Stańczak. For the last 7 years I have been working as a Chem
 
 ## My documentations
 ### A Report in Microsoft Excel
-* [Fuel consumption report and associated costs](https://drive.google.com/drive/folders/1OuKQo7E4WDRSmy3tR6R0kWmZxJhfht8T?usp=sharing) - A report describing: monthly fuel consumption highlighting weekends, costs incurred each day, days with minimum and maximum kilometers driven, average kilometers driven, monthly change in the price of Pb 95 fuel and graphs showing this.
-* https://docs.google.com/spreadsheets/d/1hZswJLwDQRuPZrd2pe8dU_hWv89CTYkP/edit?usp=drive_link
+* [Fuel consumption report and associated costs](https://drive.google.com/drive/folders/1OuKQo7E4WDRSmy3tR6R0kWmZxJhfht8T?usp=sharing) - a report describing: monthly fuel consumption highlighting weekends, costs incurred each day, days with minimum and maximum kilometers driven, average kilometers driven, monthly change in the price of Pb 95 fuel and graphs showing this.
+
   
 ## Tools
 * Microsoft Excel
