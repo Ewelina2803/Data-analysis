@@ -4,8 +4,8 @@
 My name is Ewelina Stańczak. For the last 7 years I have been working as a Chemical Technologist. In my job, I wrote a lot of research reports. I often created tables and charts in Excel. My duties also included analyzing the amount of raw materials and reporting the need to order new ones, as well as analyzing the amount of products in stock and creating cards for the necessary quantities. I really like work related to data analysis, which is why I decided to develop further in this direction.
 
 ## My documentations
-### A report describing: monthly fuel consumption highlighting weekends, costs incurred each day, days with minimum and maximum kilometers driven, average kilometers driven, monthly change in the price of Pb 95 fuel and graphs showing this.
-* [Fuel consumption report and associated costs](https://drive.google.com/drive/folders/1OuKQo7E4WDRSmy3tR6R0kWmZxJhfht8T?usp=sharing)
+### A Report in Microsoft Excel
+* [Fuel consumption report and associated costs](https://drive.google.com/drive/folders/1OuKQo7E4WDRSmy3tR6R0kWmZxJhfht8T?usp=sharing) - A report describing: monthly fuel consumption highlighting weekends, costs incurred each day, days with minimum and maximum kilometers driven, average kilometers driven, monthly change in the price of Pb 95 fuel and graphs showing this.
   
 ## Tools
 * Microsoft Excel
