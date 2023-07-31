@@ -4,6 +4,8 @@
 My name is Ewelina Stańczak. For the last 7 years I have been working as a Chemical Technologist. In my job, I wrote a lot of research reports. I often created tables and charts in Excel. My duties also included analyzing the amount of raw materials and reporting the need to order new ones, as well as analyzing the amount of products in stock and creating cards for the necessary quantities. I really like work related to data analysis, so I create my own projects. 
 
 ## My documentations
+My portfolio is related to my interests, daily life problems and other considerations.
+
 ### A Report in Microsoft Excel
 * [Fuel consumption report and associated costs](https://www.dropbox.com/s/v2s79pg7k1tsq30/How%20much%20do%20I%20spend%20on%20fuel.xlsx?dl=0) - a report describing: monthly fuel consumption highlighting weekends, costs incurred each day, days with minimum and maximum kilometers driven, average kilometers driven, monthly change in the price of Pb 95 fuel and graphs showing this.
 * [Escape rooms in Wielkopolska](https://www.dropbox.com/scl/fi/ipoiqofw8cam9bf3if5pu/Escape-room.xlsx?rlkey=hecfai4gthmm8rh2izyop8z75&dl=0) - pivot tables, charts, searching for answers to database questions.
