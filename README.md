@@ -7,7 +7,7 @@ My name is Ewelina Stańczak. For the last 7 years I have been working as a Chem
 My portfolio is related to my interests, daily life problems and other considerations.
 
 ### A Report in Microsoft Excel
-* [Food prices in Poland in 2020-2023](https://www.dropbox.com/scl/fi/q6vl1khlfvds94r8ofojv/Food-prices-in-Poland-2020-2023.xlsx?rlkey=r30o2i0oobme6qq5yb2e9zjf4&dl=0) - describes how the prices of selected food products in Poland have changed from 2020 to now. Download summary in pdf here [Report in pdf](https://drive.google.com/drive/folders/1OuKQo7E4WDRSmy3tR6R0kWmZxJhfht8T?usp=sharing)
+* [Food prices in Poland in 2020-2023](https://www.dropbox.com/scl/fi/q6vl1khlfvds94r8ofojv/Food-prices-in-Poland-2020-2023.xlsx?rlkey=r30o2i0oobme6qq5yb2e9zjf4&dl=0) - describes how the prices of selected food products in Poland have changed from 2020 to now. Download summary in pdf here [Report in pdf](https://drive.google.com/file/d/1sDCK6LD-XvyKIlYPDuZHLwbPvLmucqMD/view?usp=sharing)
  
 * [Fuel consumption report and associated costs](https://www.dropbox.com/s/v2s79pg7k1tsq30/How%20much%20do%20I%20spend%20on%20fuel.xlsx?dl=0) - a report describing: monthly fuel consumption highlighting weekends, costs incurred each day, days with minimum and maximum kilometers driven, average kilometers driven, monthly change in the price of Pb 95 fuel and graphs showing this.
 * [Escape rooms in Wielkopolska](https://www.dropbox.com/scl/fi/ipoiqofw8cam9bf3if5pu/Escape-room.xlsx?rlkey=hecfai4gthmm8rh2izyop8z75&dl=0) - pivot tables, charts, searching for answers to database questions.
