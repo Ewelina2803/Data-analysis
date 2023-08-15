@@ -25,6 +25,8 @@ My portfolio is related to my interests, daily life problems and other considera
 <br />Organizer: Testowanie Oprogramowania/Udemy
 * **Python dla początkujących** - [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f0b5fd98-c3ed-44d7-a41d-6516b1fe59a6.pdf)
 <br />Organizer: Rafał Mobilo/Udemy
+* **Power BI - Wizualizacja i analiza danych** 
+<br />Organizer: IMD Dariusz Skórniewski
 
 ## Blogs, thematic websites
 * [https://kajodata.com/](https://kajodata.com/)  
