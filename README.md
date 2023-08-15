@@ -30,3 +30,4 @@ My portfolio is related to my interests, daily life problems and other considera
 
 ## Blogs, thematic websites
 * [https://kajodata.com/](https://kajodata.com/)  
+* [Webinarium - Power BI - Excel | Comarch Szkolenia](https://www.youtube.com/watch?v=C6qmXvECeY8)
