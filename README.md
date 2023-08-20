@@ -15,6 +15,8 @@ My portfolio is related to my interests, daily life problems and other considera
   
 ## Tools
 * Microsoft Excel
+* Microsoft Power BI
+* Power Query
 
 ## Courses
 * **Analiza danych w MS Excel** - [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ae792a58-35bb-4aed-bbb1-61afe292ef85.pdf)
