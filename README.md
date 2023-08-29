@@ -16,7 +16,6 @@ My portfolio is related to my interests, daily life problems and other considera
 ### Reports in Microsoft Power BI
 * [Sales Dashboard](https://drive.google.com/file/d/1F7TfEcDr7o6DzwwFuipOErLMt0sPTmGq/view?usp=sharing) - sales report based on data from Kaggle.
   Download [Report in pdf](https://drive.google.com/file/d/1xBRK6st_D-BjF0GuviYettVuHzY4OSbv/view?usp=sharing).
-  Download [Report in pptx](https://docs.google.com/presentation/d/1aeEPfek6qlz_RxTKuD6wSa93bLtAY1TY/edit?usp=sharing&ouid=115905193541001473425&rtpof=true&sd=true).
   Open [Report in Power BI Online](https://app.powerbi.com/links/bKgtjF2Xcl?ctid=4601a261-3d6f-4eff-b194-fccd206c138d&pbi_source=linkShare)
   
 * [Ceny mieszkań w Polsce w latach 2018-2021](https://drive.google.com/file/d/1ANS1NU8zLkQ6HoEImV1WnL7A8kCcMb-H/view?usp=sharing) - describes how the prices of apartments in Poland changed in 2018-2021. Download summary in pdf here [Report in pdf](https://drive.google.com/file/d/1QDK6bkcqzp1FO1qImZVqGjqrJFRRCuoq/view?usp=sharing)
