@@ -6,6 +6,16 @@ My name is Ewelina Stańczak. For the last 7 years I have been working as a Chem
 ## My documentations
 My portfolio is related to my interests, daily life problems and other considerations.
 
+### Reports in Microsoft Power BI
+* [Sales Dashboard](https://drive.google.com/file/d/1F7TfEcDr7o6DzwwFuipOErLMt0sPTmGq/view?usp=sharing) - sales report based on data from Kaggle.
+  Download [Report in pdf](https://drive.google.com/file/d/1xBRK6st_D-BjF0GuviYettVuHzY4OSbv/view?usp=sharing).
+  Open [Report in Power BI Online](https://app.powerbi.com/links/bKgtjF2Xcl?ctid=4601a261-3d6f-4eff-b194-fccd206c138d&pbi_source=linkShare).
+  
+* [Ceny mieszkań w Polsce w latach 2018-2021](https://drive.google.com/file/d/10gy-3LDt0L8Za21Nl5VIpG-XhyB5AMI2/view?usp=sharing) - describes how the prices of apartments in Poland changed in 2018-2021.
+Download [Report in pdf](https://drive.google.com/file/d/1QDK6bkcqzp1FO1qImZVqGjqrJFRRCuoq/view?usp=sharing).
+Open [Report in Power BI Online](https://app.powerbi.com/links/umN80wkENg?ctid=4601a261-3d6f-4eff-b194-fccd206c138d&pbi_source=linkShare).
+
+
 ### Reports in Microsoft Excel
 * [Food prices in Poland in 2020-2023](https://www.dropbox.com/scl/fi/l7qj9ibv5txumv15vynsk/Food-prices-in-Poland-2020-2023.xlsx?rlkey=bhzm6tda5cdm7mzfiormrgpqe&dl=0) - describes how the prices of selected food products in Poland have changed from 2020 to now. Download summary in pdf here [Report in pdf](https://www.dropbox.com/s/k78sb6kitssxggl/Food%20prices%20in%20Poland%202020-2023.pdf?dl=0)
  
@@ -13,14 +23,6 @@ My portfolio is related to my interests, daily life problems and other considera
   
 * [Escape rooms in Wielkopolska](https://www.dropbox.com/scl/fi/ipoiqofw8cam9bf3if5pu/Escape-room.xlsx?rlkey=hecfai4gthmm8rh2izyop8z75&dl=0) - pivot tables, charts, searching for answers to database questions.
 
-### Reports in Microsoft Power BI
-* [Sales Dashboard](https://drive.google.com/file/d/1F7TfEcDr7o6DzwwFuipOErLMt0sPTmGq/view?usp=sharing) - sales report based on data from Kaggle.
-  Download [Report in pdf](https://drive.google.com/file/d/1xBRK6st_D-BjF0GuviYettVuHzY4OSbv/view?usp=sharing).
-  Open [Report in Power BI Online](https://app.powerbi.com/links/bKgtjF2Xcl?ctid=4601a261-3d6f-4eff-b194-fccd206c138d&pbi_source=linkShare)
-  
-* [Ceny mieszkań w Polsce w latach 2018-2021](https://drive.google.com/file/d/1ANS1NU8zLkQ6HoEImV1WnL7A8kCcMb-H/view?usp=sharing) - describes how the prices of apartments in Poland changed in 2018-2021. Download summary in pdf here [Report in pdf](https://drive.google.com/file/d/1QDK6bkcqzp1FO1qImZVqGjqrJFRRCuoq/view?usp=sharing)
-
-  
 ## Tools
 * Microsoft Excel
 * Microsoft Power BI
